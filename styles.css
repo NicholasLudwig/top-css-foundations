@@ -1,7 +1,30 @@
- div{ 
-  background-color: red;
-  color: white;
-  font-size: 32px;
+ /* Numbers 1,5 */
+ .pink { 
+  background-color: rgba(199, 85, 142, 0.753);
+  color: black;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  font-size: 18px;
   text-align: center;
-  font-weight: bold;
+ }
+ /* Number 3 */
+ .bigger-text.pink {
+  background-color: rgba(199, 85, 142, 0.753);
+  color: black;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  font-size: 24px;
+  text-align: center;
+ }
+ /* Number 2 */
+ #blue {
+  color: blue;
+  font-size: 36px;
+  text-align: center;
+ }
+ /* Number 4 */
+ #green {
+  color: black;
+  background-color: rgb(122, 185, 122);
+  font: bold;
+  font-size: 24px;
+  text-align: center;
  }
